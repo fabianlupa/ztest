@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DEVC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DEVC>
+    <DEVCLASS>ZTES</DEVCLASS>
+    <CTEXT>Test</CTEXT>
+    <KORRFLAG>X</KORRFLAG>
+    <AS4USER>DEVELOPER</AS4USER>
+    <DLVUNIT>HOME</DLVUNIT>
+    <DLVU_TEXT>Customer Developments</DLVU_TEXT>
+    <NAMESPACE>/0CUST/</NAMESPACE>
+    <RESTRICTED>X</RESTRICTED>
+    <MAINPACK>X</MAINPACK>
+    <CREATED_BY>DEVELOPER</CREATED_BY>
+    <CREATED_ON>2017-09-03</CREATED_ON>
+    <CHANGED_BY>DEVELOPER</CHANGED_BY>
+    <CHANGED_ON>2017-09-03</CHANGED_ON>
+   </DEVC>
+  </asx:values>
+ </asx:abap>
+</abapGit>
