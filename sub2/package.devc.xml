@@ -3,14 +3,13 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <DEVCLASS>ZTES_SUB2</DEVCLASS>
     <CTEXT>Test subpackage 2</CTEXT>
     <COMP_POSID>MDM</COMP_POSID>
     <COMPONENT>APLM000001</COMPONENT>
    </DEVC>
    <PERMISSION>
     <SCOMPPDTLN>
-     <CLIENT_PAK>ZTES_SUB2</CLIENT_PAK>
+     <CLIENT_PAK>ZLED_SUB2</CLIENT_PAK>
      <INTF_NAME>ZTES_SUB_PUBLIC</INTF_NAME>
      <ERR_SEVER>NONE</ERR_SEVER>
     </SCOMPPDTLN>
