@@ -8,6 +8,7 @@
     <COMPONENT>ARS0000025</COMPONENT>
     <RESTRICTED>X</RESTRICTED>
     <MAINPACK>X</MAINPACK>
+    <SRV_CHECK>X</SRV_CHECK>
    </DEVC>
   </asx:values>
  </asx:abap>
