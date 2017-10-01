@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>Test subpackage 2</CTEXT>
+    <CTEXT>Test subpackage 2.0</CTEXT>
     <COMP_POSID>MDM</COMP_POSID>
     <COMPONENT>APLM000001</COMPONENT>
    </DEVC>
