@@ -6,7 +6,6 @@
     <CTEXT>Test 2.0.1</CTEXT>
     <COMP_POSID>FIN</COMP_POSID>
     <COMPONENT>ABA0000152</COMPONENT>
-    <RESTRICTED>X</RESTRICTED>
    </DEVC>
   </asx:values>
  </asx:abap>
